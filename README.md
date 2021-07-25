@@ -1,2 +1,2 @@
-# Movie-Music-Series-Downloader
-This application uses the pirate bay to get the infoHash to download the content using bit-torrent client.
+# The Pirate bay - Android app
+This application uses the pirate bay proxy to get the latest torrent from the internet to download the content using bit-torrent client.
