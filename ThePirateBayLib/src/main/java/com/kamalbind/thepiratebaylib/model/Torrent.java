@@ -1,4 +1,4 @@
-package com.kamalbind.thepiratebaylib;
+package com.kamalbind.thepiratebaylib.model;
 
 public class Torrent {
     public long id;

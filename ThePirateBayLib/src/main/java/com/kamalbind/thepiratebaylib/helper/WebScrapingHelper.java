@@ -1,4 +1,4 @@
-package com.kamalbind.thepiratebaylib;
+package com.kamalbind.thepiratebaylib.helper;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
